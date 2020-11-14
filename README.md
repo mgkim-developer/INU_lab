@@ -13,3 +13,5 @@
 #Final completion of Kipris patent search site crawler for patents related to Incheon National University 2020/07/29
 
 #Final completion of Kipris patent search site image crawler for patents related to Incheon National University 2020/08/07
+
+#Create Site Prototypes 2020/09/01
